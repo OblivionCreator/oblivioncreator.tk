@@ -1,0 +1,67 @@
+.header {
+    width: 100%;
+    text-align: center;
+    color: #fff;
+    background-color: #a22f31;
+}
+
+div#container {
+    max-width: 75em;
+    margin: 0 auto;
+    color: #000;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    color: #000;
+    text-align: center;
+    
+}
+
+.linky {
+    font-size: 3em
+}
+
+h1 {
+    font-size: 2em;
+    cursor: default;
+}
+
+.brand {
+    border-radius: 50%;
+    background-color: #ddd;
+    display: inline-block;
+    max-width: 10em;
+}
+
+h2 {
+    font-weight: thin;
+    font-size: 3em;
+}
+.small {
+    max-width:50em;
+    text-align:center;
+    margin:auto;
+}
+
+.medium {
+    max-width:80em;
+    text-align:center;
+    margin:auto;
+}
+
+.shrink {
+    border-radius: 50%;
+    background-color: #ddd;
+    display: inline-block;
+    max-width: 7em;
+}
+
+.footer {
+    color:#fff;
+    background-color: #a22f31;
+    padding: 4em
+
+
+}
